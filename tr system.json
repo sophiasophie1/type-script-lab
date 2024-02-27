@@ -1,5 +1,12 @@
-  "keywords": [],
+"keywords": [],
   "author": {
     "name": "Daniel Rosenwasser",
     "url": "https://github.com/DanielRosenwasser"
   },
+
+
+{
+    "defaultSeverity": "error",
+    "extends": [
+        "tslint:recommended"
+    ],}
